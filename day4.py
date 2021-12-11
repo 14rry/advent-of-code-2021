@@ -1,4 +1,4 @@
-
+# bingo
 with open('day4.txt') as f:
 	lines = f.readlines()
 
